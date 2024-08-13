@@ -1,0 +1,15 @@
+C:\Users\thedi\source\repos\Account.Infrastructure\obj\Debug\net8.0\Bank.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\thedi\source\repos\Account.Infrastructure\obj\Debug\net8.0\Bank.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thedi\source\repos\Account.Infrastructure\obj\Debug\net8.0\Bank.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\thedi\source\repos\Account.Infrastructure\obj\Debug\net8.0\Bank.Infrastructure.AssemblyInfo.cs
+C:\Users\thedi\source\repos\Account.Infrastructure\obj\Debug\net8.0\Bank.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\thedi\source\repos\Account.Infrastructure\bin\Debug\net8.0\Bank.Infrastructure.deps.json
+C:\Users\thedi\source\repos\Account.Infrastructure\bin\Debug\net8.0\Bank.Infrastructure.dll
+C:\Users\thedi\source\repos\Account.Infrastructure\bin\Debug\net8.0\Bank.Infrastructure.pdb
+C:\Users\thedi\source\repos\Account.Infrastructure\bin\Debug\net8.0\Bank.Domain.dll
+C:\Users\thedi\source\repos\Account.Infrastructure\bin\Debug\net8.0\Bank.Domain.pdb
+C:\Users\thedi\source\repos\Account.Infrastructure\obj\Debug\net8.0\Bank.Inf.EBD0854A.Up2Date
+C:\Users\thedi\source\repos\Account.Infrastructure\obj\Debug\net8.0\Bank.Infrastructure.dll
+C:\Users\thedi\source\repos\Account.Infrastructure\obj\Debug\net8.0\refint\Bank.Infrastructure.dll
+C:\Users\thedi\source\repos\Account.Infrastructure\obj\Debug\net8.0\Bank.Infrastructure.pdb
+C:\Users\thedi\source\repos\Account.Infrastructure\obj\Debug\net8.0\ref\Bank.Infrastructure.dll
